@@ -1,2 +1,3 @@
 #  Python Email Sender with Attachment
- This code enables the user to send an email just by mentioning the receiver's  email id and the body of the text to be delieverd and boom.. the mail will be sent.
+ This project provides a Python script for sending an email with an attachment using the smtplib library.
+ It demonstrates how to establish a secure connection to an SMTP server, create a multipart email message, attach a file, and send the email to the specified recipient. The script is designed to work with Outlook's SMTP server and includes error handling to ensure the email and attachment are sent correctly.
